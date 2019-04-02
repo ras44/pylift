@@ -23,4 +23,4 @@ may be prudent not to). This can then be pickled with
 models.
 
 A fully-fledged example of **pylift** in action can be found in
-`pylift/examples/simulated_data/sample.ipynb`.
+[`pylift/examples/simulated_data/sample.ipynb`](https://github.com/wayfair/pylift/blob/master/examples/simulated_data/sample.ipynb).
